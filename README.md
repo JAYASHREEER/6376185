@@ -1,7 +1,9 @@
 Cognizant Deepskilling .NET Assignments
+
 This repository contains solutions to assignments from the Cognizant Deepskilling .NET Full Stack Developer Training. The objective of this repository is to demonstrate key concepts in backend development using C# and .NET, with optional components for frontend development and unit testing—offering a full-stack development perspective.
 
 Project Modules
+
 The repository is organized into the following modules:
 
 Singleton Pattern
@@ -26,6 +28,7 @@ Unit Testing (Optional)
 Test projects using xUnit or NUnit for validating application logic.
 
 Technologies Used
+
 .NET SDK
 
 C# Console Applications
